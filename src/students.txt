@@ -1,0 +1,3 @@
+1001,John Smith,3.5
+1002,Alice Brown,3.9
+1003,David Lee,3.2
